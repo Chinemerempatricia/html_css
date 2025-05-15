@@ -1,0 +1,34 @@
+h1 {
+    color: red;
+    text-decoration: underline;
+    text-align: center;
+}
+#container {
+    font-size: 20px;
+    font-weight: 600;
+}
+#fitness {
+    background-color: lightcoral;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+#nutrition {
+    background-color: lightgreen;
+    padding: 10px;
+    margin-bottom: 10px;
+    }
+    #sleep {
+        background-color: purple;
+        padding: 10px;
+        margin-bottom: 10px;
+    }
+    #mentalhealth {
+        background-color: peru;
+        padding: 10px;
+        margin-bottom: 10px;
+    }
+    #hydration {
+        background-color: blue;
+        padding: 10px;
+        margin-bottom: 10px;
+    }
